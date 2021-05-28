@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8MHAoHw/5U4iwwnCljZ5f2jEsoekOqGWQhK3G5KlJqxVAuidTolBe52fdLq0LcGVzCeDBLjajruVf9EwKqUEkg==",
+  "dgSpecHash": "zlDxq1TusE1zZTwdWoUCH8jrElu1mJR2uyB7mDNV5tO0UoZYeuXTcCnMZVvEiRo3qKXn9Pk/XY8OOcpdEPd4jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\55119\\source\\repos\\WishList\\WishList\\WishList.csproj",
+  "projectFilePath": "C:\\Users\\55119\\Desktop\\Wish_List\\API\\WishList\\WishList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\55119\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\55119\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.6\\microsoft.aspnetcore.jsonpatch.5.0.6.nupkg.sha512",
