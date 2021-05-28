@@ -1,4 +1,4 @@
 USE WishList;
 
-SELECT * FROM Desejos
-SELECT * FROM Usuario
+SELECT * FROM Desejos;
+SELECT * FROM Usuario;
