@@ -7338,11 +7338,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\SENAI\\Desktop\\Wish_List\\API\\WishList\\WishList.csproj",
       "projectName": "WishList",
       "projectPath": "C:\\Users\\SENAI\\Desktop\\Wish_List\\API\\WishList\\WishList.csproj",
       "packagesPath": "C:\\Users\\SENAI\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SENAI\\Desktop\\Wish_List\\API\\WishList\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\55119\\Desktop\\Wish_List\\API\\WishList\\WishList.csproj",
+      "projectName": "WishList",
+      "projectPath": "C:\\Users\\55119\\Desktop\\Wish_List\\API\\WishList\\WishList.csproj",
+      "packagesPath": "C:\\Users\\55119\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\55119\\Desktop\\Wish_List\\API\\WishList\\obj\\",
+>>>>>>> 2129192d1749ff294f003aeff41ea9e3abe93a5d
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SENAI\\AppData\\Roaming\\NuGet\\NuGet.Config",

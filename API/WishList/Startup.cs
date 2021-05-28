@@ -18,6 +18,15 @@ namespace WishList
         public void ConfigureServices(IServiceCollection services)
         {
             services
+            services.AddCors(options => {
+                options.AddPolicy("CorsPolicy", 
+                    builder => {
+                        builder.WithOrigins("http://localhost:3000")
+                        .AllowAnyHeader()
+                        .AllowAnyMethod();
+                    }
+                );
+            });
                 .AddControllers()
             .AddNewtonsoftJson(o =>
             {
@@ -38,7 +47,9 @@ namespace WishList
             }
 
             app.UseRouting();
-
+            
+            //Para não ter interferencia com o caminho React
+            app.UseCors("CorsPolicy");
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
