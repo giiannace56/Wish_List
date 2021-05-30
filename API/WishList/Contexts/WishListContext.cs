@@ -27,7 +27,7 @@ namespace WishList.Contexts
             {
                 //#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
                 //optionsBuilder.UseSqlServer("Data Source=DESKTOP-5GTFAN8; initial catalog=wishList; user Id=sa; pwd=buck0315;");
-                optionsBuilder.UseSqlServer("Data Source=DESKTOP-FCHJ4RD\\SQLEXPRESS; initial catalog=wishList; user Id=sa; pwd=sa1365;");
+                optionsBuilder.UseSqlServer("Data Source=KAIKY-PC\\SQLEXPRESS; initial catalog=wishList; user Id=sa; pwd=147896325k;");
             }
         }
 
